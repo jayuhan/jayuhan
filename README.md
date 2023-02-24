@@ -1,3 +1,11 @@
+![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B5C7D3&height=300&section=header&text=하은&fontSize=80&fontColor=F2D6AE)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayuhan&layout=compact)](https://github.com/jayuhan/github-readme-stats)
+
+
+
 ### Hi there 👋
 
 <!--
