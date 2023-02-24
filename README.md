@@ -10,7 +10,7 @@
 
 <h3 align="center"> 📩 Get in touch </h3>
 <p align="center">
-  <a href="www.instagram.com/jayuvvith" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  <a href="https://instagram.com/jayuvvith" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a> <a href="mailto: jhaeun127@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  </p>
 
